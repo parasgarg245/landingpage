@@ -1,0 +1,46 @@
+/* .navbar{
+    background:#202B67;
+ 
+}
+
+.navbar-brand{
+    margin-left: 80px;
+}
+
+.form-inline{
+    margin-left: 60px;
+}
+
+.navbar-nav{
+    margin-left: 60px;
+    color: white;
+}
+
+.form-control{
+    border-radius: 10%;
+} */
+
+
+
+.navbar{
+     position: absolute;
+     width: 1280px;
+     height: 56px;
+     left: 0px;
+     top: 0px;
+     
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 120px 0px 80px;
+
+   
+
+    /* Primary/Faux Indigo */
+
+    background: #202B67;
+    /* Primary/Faux Indigo */
+
+    border: 1px solid #202B67;
+    box-sizing: border-box;
+}
